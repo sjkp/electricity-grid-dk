@@ -11,15 +11,15 @@ https://www.statnett.no/for-aktorer-i-kraftbransjen/tall-og-data-fra-kraftsystem
 
 ## Øresundskablerne
 
-DK -> SE = 1700 MW
-SE -> DK = 1300 MW
+* DK -> SE = 1700 MW
+* SE -> DK = 1300 MW
 
 Source: https://sv.wikipedia.org/wiki/%C3%96resundskablarna
 
 ## Konti-skan
 
-SE -> DK 680 MW
-DK -> SE 740 MW
+* SE -> DK 680 MW
+* DK -> SE 740 MW
 
 https://sv.wikipedia.org/wiki/Kontiskan
 
