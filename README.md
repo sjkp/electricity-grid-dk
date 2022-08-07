@@ -1,4 +1,4 @@
-"# electricity-grid-dk" 
+# electricity-grid-dk
 
 Information about the danish eletricty grid.
 
