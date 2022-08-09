@@ -6,6 +6,8 @@ Information about the danish eletricty grid.
 ## Live view of the grid exchange 
 https://www.statnett.no/for-aktorer-i-kraftbransjen/tall-og-data-fra-kraftsystemet/
 
+## Consumption & Production
+https://www.svk.se/om-kraftsystemet/kontrollrummet/
 
 ## Connections to Sweden 
 
